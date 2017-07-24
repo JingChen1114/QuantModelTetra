@@ -88,7 +88,7 @@ The program can be run using the input file "data_in_FloweringTime.txt" which co
 For example, using Microsoft Developer Studio, from the Debug menu select "Start debugging" to run the code, which should complete within 1 minute on a standard desktop computer.
 The output files are included here in the folder "FloweringTimeResults".
 
-<h2>Population Simulation </h2>
+<h2> Population Simulation </h2>
 Two sets of Fortran 90 source files are provided for simulation of a segregating population under either bivalent oe quadrivalent settings for chromosome pairing in an autotetraploid meiosis.
 To simulate offspring populations under either setting, the programs need to be compiled and built as a single fortran project with the main program given as main.for. 
 The input file "data_in" contains the simulation parameters. 
