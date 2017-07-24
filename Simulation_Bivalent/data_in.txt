@@ -1,0 +1,28 @@
+300 11 4       !number of individual; nloci; iqtl
+3 1 2 2        !ftype locus 1
+3 1 2 1        !      locus 2
+2 3 1 5        !      locus 3
+1 1 2 2        !      QTL
+0 2 3 1        !      locus 4
+2 1 1 0        !      locus 5
+4 0 1 5        !      locus 6
+2 0 1 1        !      locus 7
+2 2 4 2        !      locus 8
+4 4 2 5	       !      locus 9
+1 5 4 5	       !      locus 10
+4 3 5 0        !mtype locus 1
+2 3 3 1        !      locus 2
+1 3 1 2        !      locus 3
+1 1 2 2        !      QTL
+1 1 2 4        !      locus 4
+3 4 3 1        !      locus 5
+1 2 1 2        !      locus 6
+4 1 2 2        !      locus 7
+1 2 1 4        !      locus 8
+2 2 1 4        !      locus 9
+4 1 3 1        !      locus 10
+0.0 0.10 0.10 0.05 0.05 0.05 0.05 0.10 0.05 0.10 0.05  !recombination frequencies
+0.1           ! heritability
+500            ! genetic mean
+100 60 30 10   ! genetic parameters: monogenic,digenic,trigenic,quadrigenic environmental variance:
+   
